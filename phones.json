@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "5df7d9de1f968238c2365eed"
+  },
+  "name": "iPhone XS Max 256GB",
+  "link": "iphonexsmax.png",
+  "desc": "This is iPhone XS MAX 256 and its ready to sell"
+},{
+  "_id": {
+    "$oid": "5df7e2441f968238c2365eee"
+  },
+  "name": "MacBook Pro 2017",
+  "link": "macbook2018.png",
+  "desc": "This is MacBook Pro  256 and its out of stock"
+},{
+  "_id": {
+    "$oid": "5df7e3db1f968238c2365eef"
+  },
+  "name": "Apple Watch",
+  "link": "applewatch.png",
+  "desc": "this is Apple Watch and its ready to sell"
+},{
+  "_id": {
+    "$oid": "5df7e4491f968238c2365ef0"
+  },
+  "name": "iPad Pro 512GB",
+  "link": "ipadpro.png",
+  "desc": "this is iPad pro and its out of stock"
+}]
